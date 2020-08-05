@@ -5,3 +5,4 @@ I am Bhajanpreet Singh (aka codey-singh). I have been developing highly scalable
 - 👯 I’m looking to collaborate on JavaScript code and Documentation for open source projects
 - 🥰 I'm passionate about Software Development, music and singing
 - 😍 In love with JavsScript and Web
+- 🕵 Reach me out on Twitter or Linkedin (links in bio 👈)
