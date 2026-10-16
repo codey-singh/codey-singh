@@ -10,8 +10,6 @@
 <a href="https://www.linkedin.com/in/bhajanpreet-singh/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=codey-singh&style=for-the-badge&color=blue" alt="Profile Views"/>
-
 </div>
 
 ---
