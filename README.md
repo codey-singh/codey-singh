@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Bhajanpreet Singh (aka codey-singh). I have been developing highly scalable applications (Web) in various technologies for last 8+ years. I currently work at Ceridian Dayforce, Canada as a Sr. Software Developer. Previously, I have worked for companies like Cognizant and Smartbox as a Software Developer and a Team Lead.
+I am Bhajanpreet Singh (aka codey-singh). I have been developing highly scalable applications (Web) in various technologies for last 10+ years. I currently work at Dayforce, Canada as a Sr. Software Developer. Previously, I have worked for companies like Cognizant and Smartbox as a Software Developer and a Team Lead.
 
 - 👯 I’m looking to collaborate on JavaScript code and Documentation for open source projects
 - 🥰 I'm passionate about Software Development, music and singing
